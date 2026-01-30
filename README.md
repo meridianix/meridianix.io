@@ -4,7 +4,7 @@ This is the source code for my personal website, built with Next.js and deployed
 
 ## About
 
-I'm [@meridianix](https://twitter.com/meridianix), a software engineer building open-source tools in public. This site showcases my projects and serves as my corner of the internet.
+I'm [@meridianix](https://twitter.com/meridianix), a software engineer building open-source tools in public. This is where I tinker and ship in public.
 
 ## Project Structure
 
