@@ -159,7 +159,6 @@ export default function Home() {
               {/* Project Cards */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="bg-[var(--card-bg)] border border-[var(--card-border)] rounded-lg p-5 animate-fade-in transition-colors duration-200 hover:border-[var(--accent-subtle)]">
-                  <span className="text-[14px] text-[var(--muted)]">2026</span>
                   <h3 className="text-[17px] mt-1 mb-2">
                     <a href="https://github.com/meridianix/clawdbot-session-pruner" target="_blank" rel="noopener noreferrer" className="text-[var(--accent)] font-medium hover:underline">
                       Clawdbot Session Pruner
@@ -176,7 +175,6 @@ export default function Home() {
                 </div>
 
                 <div className="bg-[var(--card-bg)] border border-[var(--card-border)] rounded-lg p-5 animate-fade-in transition-colors duration-200 hover:border-[var(--accent-subtle)]">
-                  <span className="text-[14px] text-[var(--muted)]">2026</span>
                   <h3 className="text-[17px] mt-1 mb-2">
                     <a href="https://github.com/meridianix/moltbot-preflight" target="_blank" rel="noopener noreferrer" className="text-[var(--accent)] font-medium hover:underline">
                       Moltbot Preflight
@@ -193,7 +191,6 @@ export default function Home() {
                 </div>
 
                 <div className="bg-[var(--card-bg)] border border-[var(--card-border)] rounded-lg p-5 animate-fade-in transition-colors duration-200 hover:border-[var(--accent-subtle)]">
-                  <span className="text-[14px] text-[var(--muted)]">2026</span>
                   <h3 className="text-[17px] mt-1 mb-2">
                     <a href="https://github.com/meridianix/moltbot-spend-guard" target="_blank" rel="noopener noreferrer" className="text-[var(--accent)] font-medium hover:underline">
                       Moltbot Spend Guard
