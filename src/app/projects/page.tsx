@@ -205,6 +205,21 @@ export default function ProjectsPage() {
                     <a href="https://github.com/meridianix/moltbot-spend-guard" target="_blank" rel="noopener noreferrer" className="px-2 py-0.5 text-[14px] bg-transparent border border-[#3a3a3a] text-[var(--header-text)] rounded hover:border-[var(--accent-subtle)]">Source</a>
                   </div>
                 </div>
+
+                <div className="bg-[var(--card-bg)] border border-[var(--card-border)] rounded-lg p-5 animate-fade-in transition-colors duration-200 hover:border-[var(--accent-subtle)]">
+                  <h3 className="text-[17px] mt-1 mb-2">
+                    <a href="https://github.com/meridianix/meridianix.io" target="_blank" rel="noopener noreferrer" className="text-[var(--accent)] font-medium hover:underline">
+                      meridianix.io
+                    </a>
+                  </h3>
+                  <p className="text-[15px] text-[var(--card-text)] leading-relaxed mb-3">
+                    Source code for this website.
+                  </p>
+                  <div className="flex gap-2 flex-wrap">
+                    <span className="px-2 py-0.5 text-[14px] bg-transparent border border-[#3a3a3a] text-[var(--header-text)] rounded">TypeScript</span>
+                    <a href="https://github.com/meridianix/meridianix.io" target="_blank" rel="noopener noreferrer" className="px-2 py-0.5 text-[14px] bg-transparent border border-[#3a3a3a] text-[var(--header-text)] rounded hover:border-[var(--accent-subtle)]">Source</a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
