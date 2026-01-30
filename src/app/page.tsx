@@ -82,7 +82,7 @@ export default function Home() {
             <div className="border-t border-[var(--border)] pt-6 pb-6 border-b">
               <p className="text-[16px] text-[var(--header-text)] mb-2 px-3">About Me</p>
               <p className="text-[15px] text-[var(--foreground)] px-3 leading-relaxed">
-                I&apos;m <a href="https://twitter.com/meridianix" target="_blank" rel="noopener noreferrer" className="text-[var(--accent)] hover:underline">Meridianix</a>, software engineer and open-source creator. This is where I tinker and ship in public.
+                Personal website built with Next.js, React, and TypeScript. <a href="https://twitter.com/meridianix" target="_blank" rel="noopener noreferrer" className="text-[var(--accent)] hover:underline">Meridianix</a>, software engineer and open-source creator.
               </p>
             </div>
 
